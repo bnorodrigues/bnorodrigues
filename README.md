@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🚴
 
-<!--
-**bnorodrigues/bnorodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o professor Bruno Rodrigues
 
-Here are some ideas to get you started:
+Também estou estudando na Alura
+Estou me desenvolvendo nas linguagens Scratch, JavaScript e HTML</p>
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo 📫
+- brunorodriguesufpr@gmail.com
+- r.brunodavid@gmail.com
+
+![](https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif)
+
+<p>Abraços, até mais
