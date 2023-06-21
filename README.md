@@ -2,9 +2,9 @@
 
 Eu sou o professor Bruno Rodrigues
 
-Também estou estudando na Alura
-Estou me desenvolvendo nas linguagens Scratch, JavaScript e HTML</p>
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+<p>Também estou estudando na ![Alura](https://www.alura.com.br)
+<p>Estou me desenvolvendo nas linguagens Scratch, JavaScript e HTML</p>
+<p></p>Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 ### Você entrar em contato comigo 📫
 - brunorodriguesufpr@gmail.com
